@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppActivities2</string>
+    <string name="action_favorite">This is my favorite action</string>
+    <string name="action_settings">This is the settings action</string>
+    <string name="action_chooser">This is the chooser action</string>
+    <string name="title_activity_child">This is the child activity</string>
+    <string name ="textMessage">This is an example text</string>
+
+
+</resources>
